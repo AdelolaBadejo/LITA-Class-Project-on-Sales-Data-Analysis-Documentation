@@ -8,3 +8,9 @@ is to produce Power BI dashboards that highlights these findings.
 
 ### Dataset Description
 ---
+The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, documenting the company's
+ product sales. it includes information such as orderID, customerID, product name, region, order date, quantity and unit price.
+
+ ###Tools
+ ---
+ 
