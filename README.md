@@ -34,7 +34,11 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
   - Order date to calculate the month
   - Total Sales gotten by mutiplying quantity by unit price of each orderID 
   
+  ![Excel sales 4](https://github.com/user-attachments/assets/c7deb1e4-ebc6-4b9e-afef-2aba926fbe0b)
+
   
+  ![Excel sales 3](https://github.com/user-attachments/assets/0a48132d-6a0a-49be-aa40-b2d552fec3ee)
+
   
 
 
