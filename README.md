@@ -6,6 +6,10 @@ In this project i am tasked with analysis sales performance of a retail store. I
 data to uncover key insghts such as top selling product, regional performance and monthly sales trends. The goal 
 is to produce Power BI dashboards that highlights these findings.
 
+### Data Source
+---
+The Sales Data is a LITA Capstone project gotten from the Incubator Hub 
+
 ### Dataset Description
 ---
 The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, documenting the company's
@@ -19,3 +23,6 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
     3. For Data Visualization
 - SQL: A sructure query language for quering database
 - Power BI: Power Business Inteligent, Business analysis tool for interactive data visualization and building reports
+
+
+ 
