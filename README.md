@@ -24,5 +24,18 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 - SQL: A sructure query language for quering database
 - Power BI: Power Business Inteligent, Business analysis tool for interactive data visualization and building reports
 
+  ### Data Exploration
+  ---
+  #### Key Features and Columns Relevant to sales Analysis
+  The key columns identified after examining the data were
+  - Product Name
+  - Region
+  - CustomerID
+  - Order date to calculate the month
+  - Total Sales gotten by mutiplying quantity by unit price of each orderID 
+  
+  
+  
+
 
  
