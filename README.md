@@ -11,6 +11,11 @@ is to produce Power BI dashboards that highlights these findings.
 The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, documenting the company's
  product sales. it includes information such as orderID, customerID, product name, region, order date, quantity and unit price.
 
- ###Tools
+ ### Tools
  ---
- 
+ - Microsoft Excel [download Here](https://www.microsoft.com)
+    1. For Data Cleaning
+    2. For Data Analysis
+    3. For Data Visualization
+- SQL: A sructure query language for quering database
+- Power BI: Power Business Inteligent, Business analysis tool for interactive data visualization and building reports
