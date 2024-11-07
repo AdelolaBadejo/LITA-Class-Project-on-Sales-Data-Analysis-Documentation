@@ -76,5 +76,10 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   #### SQL (Structure query Language)
 
-  ![Sql sales 1](https://github.com/user-attachments/assets/41a93c65-8ba1-4e9d-8d66-aabf0904a1cb)
+  ![SQL sales1](https://github.com/user-attachments/assets/7dfacfcb-e971-425c-b19a-e3d77aa1a7be)
+
+  ![SQL SALES 2](https://github.com/user-attachments/assets/4b79e918-4c24-463f-9ac6-3609185872fa)
+
+  ![SQL sales3](https://github.com/user-attachments/assets/4c89db6f-a296-4ad6-8932-bdcf37b5138d)
+
 
