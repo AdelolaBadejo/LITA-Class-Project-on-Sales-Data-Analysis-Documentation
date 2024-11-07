@@ -72,4 +72,9 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
  - The region with the most sales is the South and it has the highest quantity of products sold
  - In the year 2023, the month of febuary is the most performimg month with a total sales of 2247,500 while in the yaer 2024 the most performing month is also febuary
    with a total sales of 298,800
-  - product with the highest quantity sold is the hat 
+  - product with the highest quantity sold is the hat
+
+  #### SQL (Structure query Language)
+
+  ![Sql sales 1](https://github.com/user-attachments/assets/41a93c65-8ba1-4e9d-8d66-aabf0904a1cb)
+
