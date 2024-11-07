@@ -34,13 +34,14 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
   - Order date to calculate the month
   - Total Sales gotten by mutiplying quantity by unit price of each orderID
 
-    The metrics and summary that will to be able to generate insightsband make recommendation are
+    The metrics and summary that will to be able to generate insights and make recommendations are
       1. Total sales per products
       2. Total sales per region
       3. Total sales per month
       4. average sales per month
       5. Total revenue per region
-      6. Highest selling products by total sales 
+      6. Highest selling products by total sales
+      7. 
   ![Excel sales 4](https://github.com/user-attachments/assets/c7deb1e4-ebc6-4b9e-afef-2aba926fbe0b)
 
   
