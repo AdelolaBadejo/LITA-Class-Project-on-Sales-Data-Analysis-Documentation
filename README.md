@@ -41,7 +41,17 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
       4. average sales per month
       5. Total revenue per region
       6. Highest selling products by total sales
-      7. 
+
+   ### Pre-Posssesing Techniques Used
+---
+- Loading of the Dataset
+- Understanding the Dataset
+- Cleaning the Dataset
+
+  ### Data Analysis
+---
+  #### Microsoft Excel
+
   ![Excel sales 4](https://github.com/user-attachments/assets/c7deb1e4-ebc6-4b9e-afef-2aba926fbe0b)
 
   
