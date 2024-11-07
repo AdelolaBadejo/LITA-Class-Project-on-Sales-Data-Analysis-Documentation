@@ -88,6 +88,7 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   ![Sql sales 6](https://github.com/user-attachments/assets/83f4ef8a-7bf7-4d5a-bde8-991552181bd1)
 
+  Calculate percentage of total sales contributed by each region
   ![SQl sales7](https://github.com/user-attachments/assets/4b8a951b-96c3-4b6b-8644-d5532d496747)
 
   ![sql sales 8](https://github.com/user-attachments/assets/fbfddee9-0b89-4293-a84a-af90d8535902)
