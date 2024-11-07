@@ -93,7 +93,11 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   ![sql sales 8](https://github.com/user-attachments/assets/fbfddee9-0b89-4293-a84a-af90d8535902)
 
-
+  #### Insight
+   - The south region has the highest percentage of 44.16% of the total sales contributed by each region
+   - The month of febuary is the month with the most sales of 298,800 in the year 2024
+   - products with no sales in the last quarter are shoes, jacket, socks, shirts and gloves
+    
 
 
 
