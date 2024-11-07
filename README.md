@@ -62,5 +62,6 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   ![Excel sales 5](https://github.com/user-attachments/assets/e382d045-079d-4682-b70f-649318790f74)
 
+  ![Excel sales 7](https://github.com/user-attachments/assets/0a863f6f-cbe4-47a5-87e7-6342e80b828d)
 
  
