@@ -43,21 +43,24 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
       6. Highest selling products by total sales
 
    ### Pre-Posssesing Techniques Used
----
+   ---
 - Loading of the Dataset
 - Understanding the Dataset
 - Cleaning the Dataset
 
   ### Data Analysis
----
+  ---
   #### Microsoft Excel
+
+  ![Excel sales 1](https://github.com/user-attachments/assets/b8906a41-7672-44b8-8b73-4c2f297057da)
 
   ![Excel sales 4](https://github.com/user-attachments/assets/c7deb1e4-ebc6-4b9e-afef-2aba926fbe0b)
 
-  
   ![Excel sales 3](https://github.com/user-attachments/assets/0a48132d-6a0a-49be-aa40-b2d552fec3ee)
 
-  
+  ![Excel sales 6](https://github.com/user-attachments/assets/b829b09d-d87e-4347-9013-226877a94c4e)
+
+  ![Excel sales 5](https://github.com/user-attachments/assets/e382d045-079d-4682-b70f-649318790f74)
 
 
  
