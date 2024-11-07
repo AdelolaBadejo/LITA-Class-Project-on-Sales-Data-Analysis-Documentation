@@ -64,4 +64,12 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   ![Excel sales 7](https://github.com/user-attachments/assets/0a863f6f-cbe4-47a5-87e7-6342e80b828d)
 
+ #### Insights
  
+ - Average sales per product was calculated using the formular Averageif with shirt having the highest average sales of 326.56 and socks having the least 121.82 
+ - Total revenue per region was calculated using the formular Sumif and the region with the most revenue generated is the South region which generated 927820 Revenue
+ - The top selling product is the shoes and followed by the shirts and then the hats whlie the least selling product is the socks
+ - The region with the most sales is the South and it has the highest quantity of products sold
+ - In the year 2023, the month of febuary is the most performimg month with a total sales of 2247,500 while in the yaer 2024 the most performing month is also febuary
+   with a total sales of 298,800
+  - product with the highest quantity sold is the hat 
