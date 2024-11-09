@@ -98,11 +98,13 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
    - The month of febuary is the month with the most sales of 298,800 in the year 2024
    - products with no sales in the last quarter are shoes, jacket, socks, shirts and gloves
     
-  #### Microsoft Power BI
+  #### Microsoft Power BI (Business Intelligent tools for interactive visualisation)
  
  ![POwer bi Sales1](https://github.com/user-attachments/assets/e1012057-8f98-4134-9d29-50f159a4ca25)
 
+ #### Insights
 
+ 
 
 
 
