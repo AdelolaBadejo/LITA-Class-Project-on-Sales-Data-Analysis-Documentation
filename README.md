@@ -102,9 +102,10 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
  
  ![POwer bi Sales1](https://github.com/user-attachments/assets/e1012057-8f98-4134-9d29-50f159a4ca25)
 
- #### Insights
+  #### Insights
 
- 
+  - The sum of total sales is 2101090, with the south region and the product shoes having the highest number of total sales 
+     
 
 
 
