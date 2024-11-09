@@ -104,8 +104,10 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   #### Insights
 
-  - The sum of total sales is 2101090, with the south region and the product shoes having the highest number of total sales 
-     
+  - The sum of total sales is 2101090, with the south region and the product shoes having the highest number of total sales and
+    the month of febuary for both years having the highest number of sum of total sales 
+  - Sum of quantity of products sold is 68,461 with thw south region and the product hat having the highest sum of quantity sold
+  - The total number of customers is 9921
 
 
 
