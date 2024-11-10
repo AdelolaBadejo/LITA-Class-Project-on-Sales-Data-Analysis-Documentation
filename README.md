@@ -1,6 +1,6 @@
 # LITA-Class-Project-on-Sales-Data-Analysis-Documentation
 ---
-## Project Title : LITA Capstone Data Analysis Project on Sales Performance for a Retail Store
+## Project Title : LITA Capstone Data Analysis Project on Sales Performance Analysis for a Retail Store
 ---
 ### Project Overview
 ---
