@@ -1,7 +1,9 @@
 # LITA-Class-Project-on-Sales-Data-Analysis-Documentation
 ---
+
 ## Project Title : LITA Capstone Data Analysis Project on Sales Performance Analysis for a Retail Store
 ---
+
 ### Project Overview
 ---
 In this project i am tasked with analyzing sales performance of a retail store. I am to explore this sales
@@ -44,8 +46,8 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
       5. Total revenue per region
       6. Highest selling products by total sales
 
-   ### Pre-Posssesing Techniques Used
-   ---
+  ### Pre-Posssesing Techniques Used
+  ---
 - Loading of the Dataset
 - Understanding the Dataset
 - Cleaning the Dataset
@@ -112,7 +114,7 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
   - The total number of customers is 9921
 
   ### Recommendations
-  
+  ---
   1. To optimize performance and prioritise products categories for enhancement, the business should concentrate on the most
      succesful products which includes Shoes and Shirts.
 
