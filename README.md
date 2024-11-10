@@ -110,11 +110,13 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
   - The total number of customers is 9921
 
   ### Recommendations
+  
   1. To optimize performance and prioritise products categories for enhancement, the business should concentrate on the most
-     succesful products which includes shoes and shirts.
+     succesful products which includes Shoes and Shirts.
 
-  2. Given the observed monthly sales trends, focus market efforts during the peak months which is febuary and months where sales tends to spike.
+  2. Given the observed monthly sales trends for both years, focus market efforts during the peak months which is Febuary and months where sales tends to spike.
      plan strategic promotions and campaigns to increase monthly sales.
 
-  3. 
+  3. For regions that are top performing which is the South region followed by the East region, allocate more resources towards targeted marketing campaign
+     to enhance brand visibility and sales  
 
