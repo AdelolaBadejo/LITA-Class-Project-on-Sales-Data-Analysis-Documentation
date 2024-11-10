@@ -2,7 +2,7 @@
 ---
 ### Project Overview
 ---
-In this project i am tasked with analysis sales performance of a retail store. I am to explore this sales
+In this project i am tasked with analyzing sales performance of a retail store. I am to explore this sales
 data to uncover key insghts such as top selling product, regional performance and monthly sales trends. The goal 
 is to produce Power BI dashboards that highlights these findings.
 
@@ -34,11 +34,11 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
   - Order date to calculate the month
   - Total Sales gotten by mutiplying quantity by unit price of each orderID
 
-    The metrics and summary that will to be able to generate insights and make recommendations are
+    The metrics and summary that will be able to generate insights and make recommendations are
       1. Total sales per products
       2. Total sales per region
       3. Total sales per month
-      4. average sales per month
+      4. Average sales per month
       5. Total revenue per region
       6. Highest selling products by total sales
 
@@ -67,8 +67,8 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
  #### Insights
  
  - Average sales per product was calculated using the formular Averageif with shirt having the highest average sales of 326.56 and socks having the least 121.82 
- - Total revenue per region was calculated using the formular Sumif and the region with the most revenue generated is the South region which generated 927820 Revenue
- - The top selling product is the shoes and followed by the shirts and then the hats whlie the least selling product is the socks
+ - Total revenue per region was calculated using the formular Sumif and the region with the most revenue generated is the South region which generated 927820 revenue
+ - The top selling product is the shoes followed by the shirts and then the hats whlie the least selling product is the socks
  - The region with the most sales is the South and it has the highest quantity of products sold
  - In the year 2023, the month of febuary is the most performimg month with a total sales of 2247,500 while in the yaer 2024 the most performing month is also febuary
    with a total sales of 298,800
@@ -106,8 +106,15 @@ The sales dataset is an unclean data comprising of 7 columms and 50,001 rows, do
 
   - The sum of total sales is 2101090, with the south region and the product shoes having the highest number of total sales and
     the month of febuary for both years having the highest number of sum of total sales 
-  - Sum of quantity of products sold is 68,461 with thw south region and the product hat having the highest sum of quantity sold
+  - Sum of quantity of products sold is 68,461 with the south region and the product hat having the highest sum of quantity sold
   - The total number of customers is 9921
 
+  ### Recommendations
+  1. To optimize performance and prioritise products categories for enhancement, the business should concentrate on the most
+     succesful products which includes shoes and shirts.
 
+  2. Given the observed monthly sales trends, focus market efforts during the peak months which is febuary and months where sales tends to spike.
+     plan strategic promotions and campaigns to increase monthly sales.
+
+  3. 
 
