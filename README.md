@@ -10,7 +10,7 @@ is to produce Power BI dashboards that highlights these findings.
 
 ### Data Source
 ---
-The Sales Data is a LITA Capstone project gotten from the Incubator Hub 
+Sales Data LITA Capstone project gotten from the Incubator Hub 
 
 ### Dataset Description
 ---
